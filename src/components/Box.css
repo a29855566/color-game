@@ -1,0 +1,24 @@
+.box {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    transition: 0.3s;
+}
+
+.box-hidden {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    opacity: 0;
+    transition: 0.3s;
+}

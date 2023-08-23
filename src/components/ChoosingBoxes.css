@@ -1,0 +1,12 @@
+.boxes-line-one {
+    display: flex;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.boxes-line-one-hidden {
+    display: flex;
+    justify-content: center;
+    transition: 0.3s;
+    display: none;
+}
